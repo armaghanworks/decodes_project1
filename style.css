@@ -246,6 +246,11 @@ ul {
   aspect-ratio: 480 / 300;
 }
 
+/* .certificate-card-image{
+  width: 100;
+  aspect-ratio: 480 / 300;
+} */
+
 .project-card__body {
   padding: 20px 22px 24px;
   display: flex;
